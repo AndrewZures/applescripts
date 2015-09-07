@@ -1,1 +1,1 @@
-osascript ./compiled/open_url.scpt
+osascript ./compiled/open_url.scpt github
